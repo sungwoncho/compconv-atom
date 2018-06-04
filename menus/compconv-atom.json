@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Compconv",
+        "command": "compconv-atom:convert"
+      }
+    ]
+  }
+}

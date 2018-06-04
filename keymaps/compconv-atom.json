@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-cmd-c": "compconv-atom:convert"
+  }
+}

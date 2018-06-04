@@ -1,0 +1,15 @@
+{
+  "name": "compconv-atom",
+  "main": "./lib/index.js",
+  "version": "0.1.0",
+  "description": "A short description of your package",
+  "keywords": ["react", "reactjs", "component", "devtools"],
+  "repository": "https://github.com/sungwoncho/compconv-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "compconv": "^0.1.1"
+  }
+}
