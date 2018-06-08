@@ -41,9 +41,9 @@ babylon@^6.18.0:
   version "6.18.0"
   resolved "https://registry.yarnpkg.com/babylon/-/babylon-6.18.0.tgz#af2f3b88fa6f5c1e4c634d1a0f8eac4f55b395e3"
 
-compconv@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/compconv/-/compconv-0.1.1.tgz#c39d636ba2e0e7659335fa9846b26042dc616803"
+compconv@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/compconv/-/compconv-0.1.2.tgz#83d06c1b71808aeecdd22b5bb4e5d9ed21652bae"
   dependencies:
     babel-generator "^6.26.1"
     babylon "^6.18.0"
